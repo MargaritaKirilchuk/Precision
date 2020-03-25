@@ -11,7 +11,7 @@
 
 ## Результаты
 
-1. 
+1. https://github.com/MargaritaKirilchuk/Precision/issues/1#issue-587995821
 
 ## Общие рекомендации
 
